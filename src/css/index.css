@@ -30,8 +30,8 @@
     padding: 0px 5px;
     cursor: pointer;
     border-radius: 4px;
-    /* font-size: 16px;
-    vertical-align: middle; */
+    /* font-size: 16px; */
+    vertical-align: middle;
 }
 
 .wrapper .search .active {
@@ -50,9 +50,10 @@
 .wrapper .friendList ul li img {
     position: absolute;
     left: 0px;
-    top: 10px;
-    width: 40px;
-    height: 40px;
+    top: 12px;
+    width: 45px;
+    height: 45px;
+    border-radius: 4px;
 }
 
 .wrapper .friendList ul li .name {
